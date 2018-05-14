@@ -287,6 +287,7 @@ border-radius: 2px; transition: all 1s;}
 .portfolio .works-tab .project .work-img {
 	float: right;
 	width: 50%;
+	height: 435px;
 	text-align: center;
 }
 body > footer {
